@@ -10,6 +10,7 @@ public class ArrayTest {
         list.add("aaa");
         list.add("bbb");
         list.add("ccc");
+        list.add("ddd");
 
         for (String s : list) {
             System.out.println("s = " + s);

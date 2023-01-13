@@ -13,5 +13,6 @@ public class Test {
         System.out.println(calc.divide(n1, n2));
 
         calc.showInfo();
+        calc.description();
     }
 }

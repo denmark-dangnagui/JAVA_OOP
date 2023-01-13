@@ -14,11 +14,11 @@ public interface Calc {
         System.out.println("점수 계산기를 구현합니다.");
     }
 
-    static int total(int[] arr) {
-        int total = 0;
-
-        for (int i: arr) {
-
-        }
-    }
+//    static int total(int[] arr) {
+//        int total = 0;
+//
+//        for (int i: arr) {
+//
+//        }
+//    }
 }

@@ -7,3 +7,4 @@ public class TestMyNumber {
         System.out.println(max.getMaxNumber(10,20));
     }
 }
+ 
